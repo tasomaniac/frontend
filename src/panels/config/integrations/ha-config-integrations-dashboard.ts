@@ -204,7 +204,7 @@ class HaConfigIntegrationsDashboard extends SubscribeMixin(LitElement) {
           supports_remove_device: false,
           supports_unload: false,
           supports_reconfigure: false,
-          supported_subentries: [],
+          supported_subentry_flows: [],
           num_subentries: 0,
           pref_disable_new_entities: false,
           pref_disable_polling: false,
